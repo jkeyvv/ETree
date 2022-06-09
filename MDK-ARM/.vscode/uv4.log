@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'ETree'
+Note: source file '..\User\system_stm32f4xx.c' - object file renamed from '.\Objects\system_stm32f4xx.o' to '.\Objects\system_stm32f4xx_1.o'.compiling stm32f4xx_it.c...
+linking...
+.\Objects\ETree.axf: Error: L6218E: Undefined symbol vApplicationIdleHook (referred from tasks.o).
+.\Objects\ETree.axf: Error: L6218E: Undefined symbol vApplicationStackOverflowHook (referred from tasks.o).
+.\Objects\ETree.axf: Error: L6218E: Undefined symbol vApplicationTickHook (referred from tasks.o).
+Not enough information to list image symbols.
+Not enough information to list load addresses in the image map.
+Finished: 2 information, 0 warning and 3 error messages.
+".\Objects\ETree.axf" - 3 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01

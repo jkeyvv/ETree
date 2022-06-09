@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32f4x7_eth.h": "c",
+        "stm32f4x7_eth_conf.h": "c",
+        "main.h": "c",
+        "delay.h": "c",
+        "led.h": "c",
+        "systick.h": "c",
+        "log.h": "c",
+        "ringbuf.h": "c"
+    }
+}
